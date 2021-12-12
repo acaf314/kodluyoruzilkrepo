@@ -1,3 +1,5 @@
+![Kodluyoruz](https://res.cloudinary.com/danielkapper-com/image/upload/v1577156572/logo-one.png)
+
 # Kodluyoruz Ilk Repo
 
 Bu repo [Kodluyoruz](https://kodluyoruz.com) Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
